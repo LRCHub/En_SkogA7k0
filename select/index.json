@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "温度と一部",
+  "base_artist": "エルスウェア紀行",
+  "createdAt": "2026-04-01T07:22:47.453150Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "温度と一部",
+      "artist": "エルスウェア紀行",
+      "has_synced": false,
+      "path": "select/pl_01_温度と一部_エルスウェア紀行.txt"
+    }
+  ]
+}
